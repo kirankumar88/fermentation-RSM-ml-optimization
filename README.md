@@ -85,6 +85,8 @@ The optimized media conditions were exported as ranked optimization tables.
 
 A Streamlit web application was developed to allow users to interact with the machine learning model.
 
+Link : https://fermentation-rsm-ml-optimization-hyanopgulfgrgs7xun8ttq.streamlit.app/
+
 The application provides:
 
 Single prediction for lipid titer
@@ -96,7 +98,7 @@ Visualization of model performance
 
 The application is designed for local deployment and demonstration purposes.
 
-Project Structure
+# Project Structure
 fermentation-RSM-ml-optimization
 │
 ├── app.py
