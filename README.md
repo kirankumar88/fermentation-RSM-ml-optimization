@@ -8,6 +8,9 @@ The best-performing model was deployed as an interactive Streamlit web applicati
 
 This project demonstrates an end-to-end workflow including experimental design, machine learning modeling, model interpretation, optimization, and application development.
 
+<img width="1983" height="793" alt="ChatGPT Image Apr 18, 2026, 09_54_23 PM" src="https://github.com/user-attachments/assets/ca640863-fb92-4d19-862f-cbec5650e80c" />
+
+
 ## Fermentation Parameters Used
 
 # The machine learning model predicts lipid production based on the following fermentation variables:
